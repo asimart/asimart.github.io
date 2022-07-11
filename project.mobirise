@@ -61,7 +61,9 @@
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
     "witsec-white-label": false,
-    "mbrsiteDomain": "vdwjhejsxi"
+    "mbrsiteDomain": "vdwjhejsxi",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
